@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9A3F99F3-B938-4FED-BB93-B36502905C20}|Default">
+  <MonoDevelop.Ide.ItemProperties.edittext__error AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="edittext_error/CapsOnly.cs">
+    <Files>
+      <File FileName="edittext_error/MainActivity.cs" Line="26" Column="6" />
+      <File FileName="edittext_error/CapsOnly.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="edittext_error" expanded="True">
+            <Node name="edittext_error" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="CapsOnly.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
